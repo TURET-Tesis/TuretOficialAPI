@@ -1,0 +1,7 @@
+wordnet
+pros_cons
+reuters
+stopwords
+word_tokenize
+sent_tokenize
+puntk
