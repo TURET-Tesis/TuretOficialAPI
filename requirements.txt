@@ -28,7 +28,7 @@ pycparser==2.18
 pyOpenSSL==18.0.0
 python-openid==2.2.5
 pytz==2017.2
-requests==2.18.2
+requests==2.20.0
 requests-oauthlib==1.0.0
 sentiment-classifier==0.7
 six==1.10.0
