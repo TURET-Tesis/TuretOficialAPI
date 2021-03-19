@@ -22,7 +22,7 @@ ipaddress==1.0.22
 nltk==3.2.4
 numpy==1.13.1
 oauthlib==2.1.0
-Pillow==5.2.0
+Pillow==8.1.1
 psycopg2==2.7.4
 pycparser==2.18
 pyOpenSSL==18.0.0
